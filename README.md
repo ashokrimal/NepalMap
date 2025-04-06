@@ -1,5 +1,12 @@
 # NepalMap - Interactive Terminal Map of Nepal
 
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1269994258438557727/1358331358078046268/map-nepal-outline-with-province_409510-4.png?ex=67f37428&is=67f222a8&hm=4d71b82ae4da8bca3a9b705f66575cfe6a9d03e1121949a7b8934b13aee13ee2&width=1252&height=1252" alt="Nepal Map Banner" width="100%" />
+</p>
+
+
+
 An interactive terminal-based map of Nepal where users can view information about different provinces, cities, and interesting facts. The map allows users to interact with the provinces of Nepal, displaying information like the province's capital, major cities, and fun facts in both Nepali and English.
 
 ---
